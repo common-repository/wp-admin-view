@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Admin View\n"
+"POT-Creation-Date: 2018-03-09 13:16+0530\n"
+"PO-Revision-Date: 2018-03-09 13:16+0530\n"
+"Last-Translator: AcmeeDesign <support@acmeedesign.com>\n"
+"Language-Team: AcmeeDesign softwares and solutions\n"
+"Language: en_001\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/acmee-framework/inc/aof.class.php:43
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:59
+msgid "Loading..."
+msgstr ""
+
+
+#: includes/acmee-framework/inc/aof.class.php:203
+msgid "Need help?"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:463
+msgid "Font Family"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:481
+msgid "Color"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:486
+msgid "Font Weight"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:496
+msgid "Font Style"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:506
+msgid "Font Size"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:581
+msgid "Save Changes"
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:710
+msgid "Settings saved."
+msgstr ""
+
+#: includes/acmee-framework/inc/aof.class.php:714
+msgid "Error: Settings not saved."
+msgstr ""
+
+#: includes/wpav-impexp.class.php:24
+msgid "Import and Export Settings"
+msgstr ""
+
+#: includes/wpav-impexp.class.php:24
+msgid "Import-Export Settings"
+msgstr ""
+
+#: includes/wpav-impexp.class.php:36
+msgid "Settings Imported!"
+msgstr ""
+
+#: includes/wpav-impexp.class.php:44
+msgid "You are importing empty data or wrong data format."
+msgstr ""
+
+#: includes/wpav-impexp.class.php:50
+msgid "Reset to default"
+msgstr ""
+
+#: includes/wpav-impexp.class.php:51
+msgid "By resetting all settings will be deleted!"
+msgstr ""
+
+#: includes/wpav-impexp.class.php:56
+msgid "Reset All Settings"
+msgstr ""
+
+#: includes/wpav-impexp.class.php:60
+msgid "Export Settings"
+msgstr ""
+
+#: includes/wpav-impexp.class.php:62
+msgid "Save the below contents to a text file."
+msgstr ""
+
+#: includes/wpav-impexp.class.php:66 includes/wpav-impexp.class.php:71
+msgid "Import Settings"
+msgstr ""
+
+#: includes/wpav-options.php:67 includes/wpav-options.php:81
+msgid "General Options"
+msgstr ""
+
+#: includes/wpav-options.php:68 includes/wpav-options.php:217
+msgid "Login Options"
+msgstr ""
+
+#: includes/wpav-options.php:69 includes/wpav-options.php:421
+msgid "Dashboard Options"
+msgstr ""
+
+#: includes/wpav-options.php:70 includes/wpav-options.php:627
+msgid "Adminbar Options"
+msgstr ""
+
+#: includes/wpav-options.php:71 includes/wpav-options.php:749
+msgid "Admin Page Options"
+msgstr ""
+
+#: includes/wpav-options.php:72 includes/wpav-options.php:1021
+msgid "Admin menu Options"
+msgstr ""
+
+#: includes/wpav-options.php:73 includes/wpav-options.php:1143
+msgid "Footer Options"
+msgstr ""
+
+#: includes/wpav-options.php:74 includes/wpav-options.php:1157
+msgid "Email Options"
+msgstr ""
+
+#: includes/wpav-options.php:86
+msgid "Choose design type"
+msgstr ""
+
+#: includes/wpav-options.php:90
+msgid "Neu Excite (Lite)"
+msgstr ""
+
+#: includes/wpav-options.php:91
+msgid "Flat design"
+msgstr ""
+
+#: includes/wpav-options.php:92
+msgid "Default design"
+msgstr ""
+
+#: includes/wpav-options.php:98
+msgid "Heading H1 color"
+msgstr ""
+
+#: includes/wpav-options.php:105
+msgid "Heading H2 color"
+msgstr ""
+
+#: includes/wpav-options.php:112
+msgid "Heading H3 color"
+msgstr ""
+
+#: includes/wpav-options.php:119
+msgid "Heading H4 color"
+msgstr ""
+
+#: includes/wpav-options.php:126
+msgid "Heading H5 color"
+msgstr ""
+
+#: includes/wpav-options.php:133
+msgid "Heading H6 color"
+msgstr ""
+
+#: includes/wpav-options.php:140
+msgid "Remove unwanted items"
+msgstr ""
+
+#: includes/wpav-options.php:143 includes/wpav-options.php:430
+msgid "Select whichever you want to remove."
+msgstr ""
+
+#: includes/wpav-options.php:145
+msgid "Wordpress Help tab."
+msgstr ""
+
+#: includes/wpav-options.php:146
+msgid "Screen Options."
+msgstr ""
+
+#: includes/wpav-options.php:147
+msgid "Wordpress update notifications."
+msgstr ""
+
+#: includes/wpav-options.php:152
+msgid "Disable automatic updates"
+msgstr ""
+
+#: includes/wpav-options.php:155
+msgid "Select to disable all automatic background updates (Not recommended)."
+msgstr ""
+
+#: includes/wpav-options.php:160
+msgid "Disable update emails"
+msgstr ""
+
+#: includes/wpav-options.php:163
+msgid "Select to disable emails regarding automatic updates."
+msgstr ""
+
+#: includes/wpav-options.php:168
+msgid "Hide update notifications"
+msgstr ""
+
+#: includes/wpav-options.php:171
+msgid "Select to hide update notifications on plugins page (Not recommended)."
+msgstr ""
+
+#: includes/wpav-options.php:176
+msgid "Hide Admin bar"
+msgstr ""
+
+#: includes/wpav-options.php:179
+msgid "Select to hideadmin bar on frontend."
+msgstr ""
+
+#: includes/wpav-options.php:184
+msgid "Hide Color picker from user profile"
+msgstr ""
+
+#: includes/wpav-options.php:187
+msgid "Select to hide Color picker from user profile."
+msgstr ""
+
+#: includes/wpav-options.php:192
+msgid "Menu Customization options"
+msgstr ""
+
+#: includes/wpav-options.php:197
+msgid "Menu display"
+msgstr ""
+
+#: includes/wpav-options.php:201
+msgid "Show all Menu links to all admin users"
+msgstr ""
+
+#: includes/wpav-options.php:202
+msgid "Show all Menu links to specific admin users"
+msgstr ""
+
+#: includes/wpav-options.php:207
+msgid "Select Privilege users"
+msgstr ""
+
+#: includes/wpav-options.php:210
+msgid ""
+"Select admin users who can have access to all menu items. Note: Atleast one "
+"user must be selected in order to activate Privilege feature."
+msgstr ""
+
+#: includes/wpav-options.php:222
+msgid "Disable custom styles for login page."
+msgstr ""
+
+#: includes/wpav-options.php:225
+msgid "Check to disable"
+msgstr ""
+
+#: includes/wpav-options.php:230
+msgid "Login page title"
+msgstr ""
+
+#: includes/wpav-options.php:237 includes/wpav-options.php:759
+msgid "Background color"
+msgstr ""
+
+#: includes/wpav-options.php:244
+msgid "External background url"
+msgstr ""
+
+#: includes/wpav-options.php:247 includes/wpav-options.php:294
+msgid "Load image from external source."
+msgstr ""
+
+#: includes/wpav-options.php:251
+msgid "Background image"
+msgstr ""
+
+#: includes/wpav-options.php:257
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/wpav-options.php:260
+msgid "Check to repeat"
+msgstr ""
+
+#: includes/wpav-options.php:265
+msgid "Scale background image"
+msgstr ""
+
+#: includes/wpav-options.php:268
+msgid "Scale image to fit Screen size."
+msgstr ""
+
+#: includes/wpav-options.php:273
+msgid "Login Form Top margin"
+msgstr ""
+
+#: includes/wpav-options.php:282
+msgid "Login Form Width in %"
+msgstr ""
+
+#: includes/wpav-options.php:291 includes/wpav-options.php:632
+msgid "External Logo url"
+msgstr ""
+
+#: includes/wpav-options.php:298 includes/wpav-options.php:639
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/wpav-options.php:301
+msgid ""
+"Image to be displayed on login page. Maximum width should be under 450pixels."
+msgstr ""
+
+#: includes/wpav-options.php:305 includes/wpav-options.php:653
+msgid "Resize Logo?"
+msgstr ""
+
+#: includes/wpav-options.php:309 includes/wpav-options.php:657
+msgid "Select to resize logo size."
+msgstr ""
+
+#: includes/wpav-options.php:313 includes/wpav-options.php:661
+msgid "Set Logo size in %"
+msgstr ""
+
+#: includes/wpav-options.php:321
+msgid "Logo Height"
+msgstr ""
+
+#: includes/wpav-options.php:329
+msgid "Logo url"
+msgstr ""
+
+#: includes/wpav-options.php:336
+msgid "Transparent Form"
+msgstr ""
+
+#: includes/wpav-options.php:340
+msgid "Select to show transparent form background."
+msgstr ""
+
+#: includes/wpav-options.php:344
+msgid "Login div bacground color"
+msgstr ""
+
+#: includes/wpav-options.php:351
+msgid "Login form bacground color"
+msgstr ""
+
+#: includes/wpav-options.php:358
+msgid "Form border color"
+msgstr ""
+
+#: includes/wpav-options.php:365
+msgid "Form text color"
+msgstr ""
+
+#: includes/wpav-options.php:372
+msgid "Form link color"
+msgstr ""
+
+#: includes/wpav-options.php:379
+msgid "Form link hover color"
+msgstr ""
+
+#: includes/wpav-options.php:386
+msgid "Hide Back to blog link"
+msgstr ""
+
+#: includes/wpav-options.php:390 includes/wpav-options.php:398
+msgid "select to hide"
+msgstr ""
+
+#: includes/wpav-options.php:394
+msgid "Hide Remember me"
+msgstr ""
+
+#: includes/wpav-options.php:402
+msgid "Custom Footer content"
+msgstr ""
+
+#: includes/wpav-options.php:408 includes/wpav-options.php:1009
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/wpav-options.php:413
+msgid "Custom CSS for Login page"
+msgstr ""
+
+#: includes/wpav-options.php:427
+msgid "Remove unwanted Widgets"
+msgstr ""
+
+#: includes/wpav-options.php:436
+msgid "Create New Widgets"
+msgstr ""
+
+#: includes/wpav-options.php:442
+msgid "Widget 1"
+msgstr ""
+
+#: includes/wpav-options.php:446 includes/wpav-options.php:492
+#: includes/wpav-options.php:538 includes/wpav-options.php:584
+msgid "Widget Type"
+msgstr ""
+
+#: includes/wpav-options.php:449 includes/wpav-options.php:495
+#: includes/wpav-options.php:541 includes/wpav-options.php:587
+msgid "RSS Feed"
+msgstr ""
+
+#: includes/wpav-options.php:450 includes/wpav-options.php:496
+#: includes/wpav-options.php:542 includes/wpav-options.php:588
+msgid "Text Content"
+msgstr ""
+
+#: includes/wpav-options.php:451 includes/wpav-options.php:497
+#: includes/wpav-options.php:543 includes/wpav-options.php:589
+msgid "Video Content"
+msgstr ""
+
+#: includes/wpav-options.php:458 includes/wpav-options.php:504
+#: includes/wpav-options.php:550 includes/wpav-options.php:596
+msgid "Widget Position"
+msgstr ""
+
+#: includes/wpav-options.php:461 includes/wpav-options.php:507
+#: includes/wpav-options.php:553 includes/wpav-options.php:599
+msgid "Left"
+msgstr ""
+
+#: includes/wpav-options.php:462 includes/wpav-options.php:508
+#: includes/wpav-options.php:554 includes/wpav-options.php:600
+msgid "Right"
+msgstr ""
+
+#: includes/wpav-options.php:468 includes/wpav-options.php:514
+#: includes/wpav-options.php:560 includes/wpav-options.php:606
+msgid "Widget Title"
+msgstr ""
+
+#: includes/wpav-options.php:474 includes/wpav-options.php:520
+#: includes/wpav-options.php:566 includes/wpav-options.php:612
+msgid "RSS Feed url"
+msgstr ""
+
+#: includes/wpav-options.php:477 includes/wpav-options.php:523
+#: includes/wpav-options.php:569 includes/wpav-options.php:615
+msgid ""
+"Put your RSS feed url here if you want to show your own RSS feeds. Otherwise "
+"fill your static contents in the below editor."
+msgstr ""
+
+#: includes/wpav-options.php:481 includes/wpav-options.php:527
+#: includes/wpav-options.php:573 includes/wpav-options.php:619
+msgid "Widget Content"
+msgstr ""
+
+#: includes/wpav-options.php:488
+msgid "Widget 2"
+msgstr ""
+
+#: includes/wpav-options.php:534
+msgid "Widget 3"
+msgstr ""
+
+#: includes/wpav-options.php:580
+msgid "Widget 4"
+msgstr ""
+
+#: includes/wpav-options.php:635
+msgid "Load image from external source. Maximum size 200x50 pixels."
+msgstr ""
+
+#: includes/wpav-options.php:642
+msgid "Image to be displayed in all pages. Maximum size 200x50 pixels."
+msgstr ""
+
+#: includes/wpav-options.php:646
+msgid "Logo link"
+msgstr ""
+
+#: includes/wpav-options.php:649
+msgid "If empty it will default to admin dashboard url."
+msgstr ""
+
+#: includes/wpav-options.php:669
+msgid "Move logo Top by"
+msgstr ""
+
+#: includes/wpav-options.php:672 includes/wpav-options.php:681
+#: includes/wpav-options.php:690
+msgid "Can be used in case of logo position haven't matched the menu position."
+msgstr ""
+
+#: includes/wpav-options.php:678
+msgid "Move logo Bottom by"
+msgstr ""
+
+#: includes/wpav-options.php:687
+msgid "Move logo right by"
+msgstr ""
+
+#: includes/wpav-options.php:696
+msgid "Admin bar color"
+msgstr ""
+
+#: includes/wpav-options.php:703
+msgid "Menu Link color"
+msgstr ""
+
+#: includes/wpav-options.php:710
+msgid "Menu Link hover color"
+msgstr ""
+
+#: includes/wpav-options.php:717
+msgid "Menu background hover/Sub menu color"
+msgstr ""
+
+#: includes/wpav-options.php:724
+msgid "Submenu Link color"
+msgstr ""
+
+#: includes/wpav-options.php:731
+msgid "Submenu Link hover color"
+msgstr ""
+
+#: includes/wpav-options.php:739
+msgid "Remove Unwanted Menus"
+msgstr ""
+
+#: includes/wpav-options.php:742
+msgid "Select menu items to remove."
+msgstr ""
+
+#: includes/wpav-options.php:754
+msgid "Page background color"
+msgstr ""
+
+#: includes/wpav-options.php:766
+msgid "Primary button colors"
+msgstr ""
+
+#: includes/wpav-options.php:771
+msgid "Button background  color"
+msgstr ""
+
+#: includes/wpav-options.php:779 includes/wpav-options.php:844
+msgid "Button border color"
+msgstr ""
+
+#: includes/wpav-options.php:786 includes/wpav-options.php:851
+msgid "Button shadow color"
+msgstr ""
+
+#: includes/wpav-options.php:794 includes/wpav-options.php:859
+#: includes/wpav-options.php:915
+msgid "Button text color"
+msgstr ""
+
+#: includes/wpav-options.php:801 includes/wpav-options.php:866
+#: includes/wpav-options.php:908
+msgid "Button hover background color"
+msgstr ""
+
+#: includes/wpav-options.php:809 includes/wpav-options.php:874
+msgid "Button hover border color"
+msgstr ""
+
+#: includes/wpav-options.php:816 includes/wpav-options.php:881
+msgid "Button hover shadow color"
+msgstr ""
+
+#: includes/wpav-options.php:824 includes/wpav-options.php:889
+#: includes/wpav-options.php:922
+msgid "Button hover text color"
+msgstr ""
+
+#: includes/wpav-options.php:831
+msgid "Secondary button colors"
+msgstr ""
+
+#: includes/wpav-options.php:836 includes/wpav-options.php:901
+msgid "Button background color"
+msgstr ""
+
+#: includes/wpav-options.php:896
+msgid "Add New button"
+msgstr ""
+
+#: includes/wpav-options.php:929
+msgid "Metabox Colors"
+msgstr ""
+
+#: includes/wpav-options.php:934
+msgid "Metabox header box"
+msgstr ""
+
+#: includes/wpav-options.php:941
+msgid "Metabox header box border"
+msgstr ""
+
+#: includes/wpav-options.php:948
+msgid "Metabox header Click button color"
+msgstr ""
+
+#: includes/wpav-options.php:955
+msgid "Metabox header Click button hover color"
+msgstr ""
+
+#: includes/wpav-options.php:962
+msgid "Metabox header text color"
+msgstr ""
+
+#: includes/wpav-options.php:969
+msgid "Message box (Post/Page updates)"
+msgstr ""
+
+#: includes/wpav-options.php:974
+msgid "Message box color"
+msgstr ""
+
+#: includes/wpav-options.php:981
+msgid "Message text color"
+msgstr ""
+
+#: includes/wpav-options.php:988
+msgid "Message box border color"
+msgstr ""
+
+#: includes/wpav-options.php:995
+msgid "Message link color"
+msgstr ""
+
+#: includes/wpav-options.php:1002
+msgid "Message link hover color"
+msgstr ""
+
+#: includes/wpav-options.php:1014
+msgid "Custom CSS for Admin pages"
+msgstr ""
+
+#: includes/wpav-options.php:1026
+msgid "Admin menu width"
+msgstr ""
+
+#: includes/wpav-options.php:1035
+msgid "Force disable Image/SVG admin menu icons."
+msgstr ""
+
+#: includes/wpav-options.php:1038
+msgid "Select to remove all Image/SVG admin menu icons."
+msgstr ""
+
+#: includes/wpav-options.php:1043
+msgid "Admin Menu Color options"
+msgstr ""
+
+#: includes/wpav-options.php:1048
+msgid "Left menu wrap color"
+msgstr ""
+
+#: includes/wpav-options.php:1055
+msgid "Menu hover color"
+msgstr ""
+
+#: includes/wpav-options.php:1062
+msgid "Menu text color"
+msgstr ""
+
+#: includes/wpav-options.php:1069
+msgid "Menu hover text color"
+msgstr ""
+
+#: includes/wpav-options.php:1076
+msgid "Current active Menu color"
+msgstr ""
+
+#: includes/wpav-options.php:1083
+msgid "Active Menu text color"
+msgstr ""
+
+#: includes/wpav-options.php:1090
+msgid "Submenu wrap color"
+msgstr ""
+
+#: includes/wpav-options.php:1097
+msgid "Submenu hover color"
+msgstr ""
+
+#: includes/wpav-options.php:1104
+msgid "Submenu text color"
+msgstr ""
+
+#: includes/wpav-options.php:1111
+msgid "Submenu hover text color"
+msgstr ""
+
+#: includes/wpav-options.php:1118
+msgid "Active submenu text color"
+msgstr ""
+
+#: includes/wpav-options.php:1125
+msgid "Updates Count notification background"
+msgstr ""
+
+#: includes/wpav-options.php:1132
+msgid "Updates Count text color"
+msgstr ""
+
+#: includes/wpav-options.php:1148
+msgid "Footer Text"
+msgstr ""
+
+#: includes/wpav-options.php:1151
+msgid "Put any text you want to show on admin footer."
+msgstr ""
+
+#: includes/wpav-options.php:1162
+msgid "White Label emails"
+msgstr ""
+
+#: includes/wpav-options.php:1165
+msgid "Disable White Label emails"
+msgstr ""
+
+#: includes/wpav-options.php:1166
+#, php-format
+msgid "Set Email address as <strong> %1$s </strong> From name as <strong> %2$s"
+msgstr ""
+
+#: includes/wpav-options.php:1167
+msgid "Set different"
+msgstr ""
+
+#: includes/wpav-options.php:1174
+msgid "Email From address"
+msgstr ""
+
+#: includes/wpav-options.php:1177
+msgid "Enter valid email address"
+msgstr ""
+
+#: includes/wpav-options.php:1181
+msgid "Email From name"
+msgstr ""
+
+#: includes/wpav.class.php:69
+msgid "Welcome to WP Admin View "
+msgstr ""
+
+#: includes/wpav.class.php:71
+msgid "Visit Knowledgebase"
+msgstr ""
+
+#: includes/wpav.class.php:241
+msgid "Customize Admin Menus"
+msgstr ""
+
+#: includes/wpav.class.php:243 includes/wpavmenu.class.php:437
+msgid "By default, all menu items will be shown to administrator users. "
+msgstr ""
+
+#: includes/wpav.class.php:245 includes/wpavmenu.class.php:439
+msgid "Click here "
+msgstr ""
+
+#: includes/wpav.class.php:247 includes/wpavmenu.class.php:441
+msgid "to customize who can access to all menu items."
+msgstr ""
+
+#: includes/wpav.class.php:519
+#, php-format
+msgid "Howdy, %1$s"
+msgstr ""
+
+#: includes/wpavmenu.class.php:36 includes/wpavmenu.class.php:435
+msgid "Manage Admin Menu"
+msgstr ""
+
+#: includes/wpavmenu.class.php:36
+msgid "Manage Admin menu"
+msgstr ""
+
+#: includes/wpavmenu.class.php:498 includes/wpavmenu.class.php:537
+msgid "Rename Title"
+msgstr ""
+
+#: includes/wpavmenu.class.php:502
+msgid "Choose Icon"
+msgstr ""
+
+#: includes/wpavmenu.class.php:595
+msgid "Separator"
+msgstr ""
+
+#: includes/wpavmenu.class.php:694
+msgid "Hide menu for"
+msgstr ""
+
+#: includes/wpavthemes.class.php:22
+msgid "Import Themes"
+msgstr ""
+
+#: includes/wpavthemes.class.php:32
+msgid "Import a Theme"
+msgstr ""
+
+#: includes/wpavthemes.class.php:33
+msgid "Note: Importing a theme will replace your existing custom set colors."
+msgstr ""
